@@ -3,7 +3,7 @@
 
 <!-- BANNER IMAGE -->
 <p align="center">
-  <img src="assets/banner.png" alt="Nandan's Tech Banner" width="60%" />
+  <img src="assets/banner.png" alt="Nandan's Tech Banner" width="100%" />
 </p>
 
 <!-- GREETING & TYPING BANNER -->

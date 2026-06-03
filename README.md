@@ -3,7 +3,7 @@
 # Hi, I'm Nandan Sai 👋
 ### CSE Undergraduate @ IIT (ISM) Dhanbad · Full-Stack Developer · Open Source Contributor
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+scalable+web+apps+and+developer-first+products;Exploring+AI%2FML+for+real-world+impact;Contributing+to+open+source+and+hackathon+projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+scalable+web+apps+and+developer-first+products;Exploring+AI%2FML+for+real-world+impact;Contributing+to+open+source+and+hackathon+projects)](https://github.com/DenverCoder1/readme-typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandansai08/)
 [![X](https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nandansai08)
@@ -74,17 +74,15 @@
 ### 1) TerraFlow
 - **What it is:** A workflow-driven platform for geospatial data processing and visualization.
 - **Tech:** `React` · `Node.js` · `MongoDB` · `GIS APIs`
-- **GitHub:** [TerraFlow Repository](https://github.com/Nandansai08?tab=repositories&q=TerraFlow)
-- **Live Demo:** _Coming soon_
+- **GitHub:** [TerraFlow Repository](https://github.com/Nandansai08/TerraFlow)
 
 ### 2) GeoVerse
 - **What it is:** An interactive geospatial application for map-based insights and decision support.
 - **Tech:** `Next.js` · `TypeScript` · `PostgreSQL` · `Leaflet/Mapbox`
-- **GitHub:** [GeoVerse Repository](https://github.com/Nandansai08?tab=repositories&q=GeoVerse)
-- **Live Demo:** _Coming soon_
+- **GitHub:** [GeoVerse Repository](https://github.com/Nandansai08/GeoVerse)
 
 ### 3) Additional Significant Projects
-- **Project:** Full-Stack Productivity / AI utility projects (customize with top repos)
+- **Collection:** Full-stack productivity tools and AI-powered utilities from my repository portfolio
 - **Tech:** `MERN` · `FastAPI` · `Python` · `Cloud Deployment`
 - **GitHub:** [View all repositories](https://github.com/Nandansai08?tab=repositories)
 
@@ -112,16 +110,20 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandansai08&theme=github-dark&hide_border=true" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandansai08&theme=github-dark&hide_border=true" width="900" alt="Contribution graph" />
+</div>
+
+<div align="center">
+  <sub>If the graph is unavailable, view the live contribution calendar on my <a href="https://github.com/Nandansai08">GitHub profile</a>.</sub>
 </div>
 
 ---
 
 ## 🏆 Achievements
-- **Hackathons:** Finalist/participant in campus and national-level hackathons
-- **Competitions:** Active in coding contests and technical challenges
-- **Certifications:** Core CS, development, and AI/ML learning certifications
-- **Leadership:** Technical/community roles in student clubs or project teams
+- **Hackathons:** Built and pitched solution prototypes under tight timelines in collaborative team environments
+- **Competitions:** Consistent algorithmic problem-solving practice through coding contests and DSA challenges
+- **Certifications:** Continuous upskilling in full-stack engineering and applied AI/ML through structured programs
+- **Leadership:** Contributed to student developer communities via peer collaboration, project execution, and knowledge sharing
 
 ---
 
@@ -144,7 +146,7 @@ Use this lightweight structure to keep the profile repo maintainable:
 ---
 
 ## 🔧 Suggested Next Improvements
-1. Replace placeholder demo links with actual deployed URLs.
+1. Add deployed demo URLs for 2–3 flagship projects when publicly available.
 2. Add 3–5 pinned repositories aligned with internship target roles.
 3. Link 5+ merged PRs and notable issues from open-source work.
 4. Quantify impact in projects (users, performance gains, accuracy, scale).
@@ -161,4 +163,4 @@ Use this lightweight structure to keep the profile repo maintainable:
 ---
 
 ## 🔍 Recruiter & ATS Keywords
-`IIT Dhanbad` · `Computer Science` · `Full Stack Developer` · `Open Source Contributor` · `JavaScript` · `TypeScript` · `React` · `Node.js` · `Python` · `AI/ML` · `Competitive Programming` · `Hackathons` · `Internship Ready`
+IIT Dhanbad · Computer Science · Full Stack Developer · Open Source Contributor · JavaScript · TypeScript · React · Node.js · Python · AI/ML · Competitive Programming · Hackathons · Internship Ready

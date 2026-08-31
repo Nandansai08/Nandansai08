@@ -14,7 +14,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2BC4FF&center=true&vCenter=true&width=450&lines=CSE+Student+%40+IIT+Dhanbad;Full+Stack+Developer;AI+%2F+ML+Enthusiast;Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nandansai08&color=blue&style=flat-square" alt="Profile Views" />
+</p>
 <p align="center">
   <strong>Building AI-powered tools, scalable full-stack applications, and algorithmic systems.</strong>
 </p>
